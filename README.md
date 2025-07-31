@@ -1,1 +1,2 @@
-# ganpat.txt
+hiii 
+how are you # ganpat.txt
